@@ -3,7 +3,7 @@
 ## Feautures
 
 - CSSGrid and Flexbox demo project
-- writed with SASS and compiled with gulp
+- written with SASS and compiled with gulp
 - boilerplate from the course 'Advanced CSS and Sass: Flexbox, Grid, Animations and More!' by Jonas Schmedtmann
 
 ## Live demo 
