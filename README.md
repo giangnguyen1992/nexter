@@ -1,6 +1,6 @@
 # nexter 
 
-## Feautures
+## Features
 
 - CSSGrid and Flexbox demo project
 - written with SASS and compiled with gulp
